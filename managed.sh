@@ -21,4 +21,4 @@ else
     echo "Package python3-colorma not found in the repositories."
 fi
 
-python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/Haproxy_TCP_loadbalance/main/haproxy.py --ipv4)
+python3 <(curl -Ls https://github.com/69learn/HAPROXY-AZUMI/refs/heads/main/haproxy.py --ipv4)
