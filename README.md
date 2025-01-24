@@ -1,3 +1,7 @@
+نصب
+
+python3 <(curl -Ls https://raw.githubusercontent.com/amir12120/HAPROXY-AZUMI/main/haproxy.py --ipv4)
+
 
 نام پروژه : لودبالانس Haproxy مناسب برای V2ray با تانل و بدون تانل  [پورت فوروارد]
 <div align="right">
